@@ -22,9 +22,9 @@
   </a>
 </p>
 
-<a href="#macropower-title">
+<!-- <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/jackdev127/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+</a> -->
 
 - :office: &nbsp;I'm always available for you!**
 - :seedling: &nbsp;I’m currently looking for a new job
