@@ -23,7 +23,7 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/jackdev127/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
 - :office: &nbsp;I'm always available for you!**
