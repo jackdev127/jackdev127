@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=jackdev127" alt="page views" />
   </a>
   <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.cake.me/s--4cRR-ApEc3Sgx3odqBtLcQ--/jackson-king">
   </a>
   <a href="https://stackoverflow.com/users/4868262">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
@@ -14,8 +14,8 @@
   <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+  <a href="https://github.com/jackdev127?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jackdev127?style=flat&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
@@ -26,12 +26,12 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :office: &nbsp;I'm always available for you!**
+- :seedling: &nbsp;I’m currently looking for a new job
 - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[Discord]**
 
 <br>
 
@@ -111,7 +111,7 @@
 <!-- links -->
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[issues page]: https://github.com/jackdev127/jackdev127/issues "MacroPower/issues"
+[discord]: https://discord.com/"
+[homelab]: https://github.com/jackdev127/homelab "MacroPower/homelab"
 [blog]: https://jacobcolvin.com/posts/ "My Blog"
